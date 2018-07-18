@@ -6,4 +6,5 @@ class Person
     @name = name
     @weight = weight
     @pant_length = pant_length
+  end
 end
